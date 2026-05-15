@@ -1,0 +1,7 @@
+Control,Total Tested,Passed,Failed,Pass Rate %,Effectiveness
+CTRL-001 Case Start and End Present,31509,31509,0,100.0,Effective
+CTRL-002 Requested Amount Present,31509,31509,0,100.0,Effective
+CTRL-003 Credit Score Present,31509,31509,0,100.0,Effective
+CTRL-004 Offered Amount Present,31509,31509,0,100.0,Effective
+CTRL-005 Cycle Time Within SLA,31509,28358,3151,90.0,Needs Monitoring
+CTRL-006 Rework Within Threshold,31509,28460,3049,90.32,Needs Monitoring
